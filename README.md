@@ -3,4 +3,4 @@ Basic React App to display Country info from API, has some filters and sort func
 
 I have only provided the src files
 
-Link : https://frolicking-meerkat-584d4c.netlify.app/
+Link : https://dreamy-croquembouche-2d0a34.netlify.app/
